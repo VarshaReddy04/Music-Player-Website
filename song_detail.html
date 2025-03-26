@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Detail</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="main">
+        <div class="top_section">
+            <h2>Now Playing</h2>
+            <button class="navtab"><a href="index.html" class="navtab">Home</a></button>
+        </div>
+        <div class="song_detail">
+            <img id="song-img" src="" alt="Song Image">
+            <div id="song-info">
+                <h2 id="song-title"></h2>
+                <p id="song-singer"></p>
+                <audio id="audio-player"></audio>
+            </div>
+        <div class="controls-container">
+            <div class="controls">
+                <button id="backward_btn"><i class="fa fa-step-backward" aria-hidden="true"></i></button>
+                <button id="play_pause_btn"><i class="fa fa-play" aria-hidden="true"></i></button>
+                <button id="forward_btn"><i class="fa fa-step-forward" aria-hidden="true"></i></button>
+            </div>
+                <input type="range" id="slider" value="0" min="0" max="100">
+            </div>
+            <div class="progress_part">
+                <span id="current_duration">0:00</span> / <span id="total_duration">0:00</span>
+            </div>
+        </div>
+    </div>
+    <script src="song_detail.js"></script>
+    
+</body>
+</html>

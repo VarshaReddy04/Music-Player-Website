@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Namo namo - Kedarnath",
+      "path": "music/1.mp3",
+      "img": "img/1.jpg",
+      "singer": "Amit Trivedi"
+    },
+    {
+      "name": "Sweetheart - Kedarnath",
+      "path": "music/2.mp3",
+      "img": "img/2.jpg",
+      "singer": "Dev Negi"
+    },
+    {
+      "name": "Quafiraana - Kedarnath",
+      "path": "music/3.mp3",
+      "img": "img/3.jpg",
+      "singer": "Arijit Singh, Nikita Gandhi"
+    },
+    {
+      "name": "Jaan nisar - Kedarnath",
+      "path": "music/4.mp3",
+      "img": "img/4.jpg",
+      "singer": "Arijit Singh"
+    },
+    {
+      "name": "Shayad - Love Aaj Kal",
+      "path": "music/5.mp3",
+      "img": "img/5.jpg",
+      "singer": "Arijit Singh, Pritam"
+    },
+    {
+      "name": "Mehrama - Love Aaj Kal",
+      "path": "music/6.mp3",
+      "img": "img/6.jpg",
+      "singer": "Pritam, Darshan Raval"
+    },
+    {
+      "name": "Shape of You - Shape of You",
+      "path": "music/7.mp3",
+      "img": "img/7.jpg",
+      "singer": "Ed Sheeran"
+    },
+    {
+      "name": "Faded - Sonic",
+      "path": "music/8.mp3",
+      "img": "img/8.jpg",
+      "singer": "Alan Walker"
+    },
+    {
+      "name": "Agar Tum Saath Ho - Tamasha",
+      "path": "music/9.mp3",
+      "img": "img/9.jpg",
+      "singer": "Alka Yagnik, Arijit Singh"
+    },
+    {
+      "name": "Raataan Lambiyan - Shershaah",
+      "path": "music/10.mp3",
+      "img": "img/10.jpg",
+      "singer": "Asees Kaur, Jubin Nautiyal"
+    },
+    {
+      "name": "Tumhe Hi Apna Maana Hai - Srikanth",
+      "path": "music/11.mp3",
+      "img": "img/11.jpg",
+      "singer": "Sachet Tandon, Parampara Tandon"
+    },
+    {
+      "name": "Tujh Mein Rab Diktha Hai - Rab Ne Bana Di Jodi",
+      "path": "music/12.mp3",
+      "img": "img/12.jpg",
+      "singer": "Roopkumar Rathod"
+    },
+    {
+      "name": "Vaaste - Tseries",
+      "path": "music/13.mp3",
+      "img": "img/13.jpg",
+      "singer": "Dhvani Bhanushali, Nikhil DSouza, Tanishk Bagchi"
+    },
+    {
+      "name": "Kesariya - Brahmastra",
+      "path": "music/14.mp3",
+      "img": "img/14.jpg",
+      "singer": "Arjit Singh"
+    },
+    {
+      "name": "Khairiyat - Chhichhore",
+      "path": "music/15.mp3",
+      "img": "img/15.jpg",
+      "singer": "Arijit Singh"
+    },
+    {
+      "name": "Barso Re-Guru",
+      "path": "music/16.mp3",
+      "img": "img/16.jpg",
+      "singer": "A R Rahman, Shreya Ghoshal, Uday Mazumdar"
+    },
+    {
+      "name": "Tauba Tauba-Bad Newz",
+      "path": "music/17.mp3",
+      "img": "img/17.jpg",
+      "singer": "Karan Aujla"
+    },
+    {
+      "name": "Chittiyaan Kalaiyaan-Roy",
+      "path": "music/18.mp3",
+      "img": "img/18.jpg",
+      "singer": "Meet Bros"
+    },
+    {
+      "name": "Ladki Badi Anjani Hai-Kuch Kuch Hota Hai",
+      "path": "music/19.mp3",
+      "img": "img/19.jpg",
+      "singer": "Alka Yagnik, Jatin-Lalit,Kumar Sanu"
+    },
+    {
+      "name": "Bole Chudiyan-Kabhi Khushi Kabhie Gham",
+      "path": "music/20.mp3",
+      "img": "img/20.jpg",
+      "singer": "Jatin-Lalit,Lata Mangeshkar"
+    },
+    {
+      "name": "Chaleya-Jawan",
+      "path": "music/21.mp3",
+      "img": "img/21.jpg",
+      "singer": "Arijit Singh,Shilpa Rao"
+    },
+    {
+      "name": "Tere Vaaste-Zara Hatke Zara Bachke",
+      "path": "music/22.mp3",
+      "img": "img/22.jpg",
+      "singer": "Varun Jain,Sachin-Jigar,Shadab Faridi"
+    },
+    {
+      "name": "Kaun Tujhe-MS Dhoni",
+      "path": "music/23.mp3",
+      "img": "img/23.jpg",
+      "singer": "Palak Muchhal"
+    },
+    {
+      "name": "Kya Khoob Lagti Ho-Dharmatma",
+      "path": "music/24.mp3",
+      "img": "img/24.jpg",
+      "singer": "Mukesh,Kanchan"
+    },
+    {
+      "name": "Dil Ne Yeh Kaha Hain Dil Se-Dhadkan",
+      "path": "music/25.mp3",
+      "img": "img/25.jpg",
+      "singer": "Alka Yagnik, Udit Narayan"
+    }
+  ]
+  

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="main">
+        <div class="top_section">
+            <h2>Music Player Website&nbsp;&nbsp;<i class="fa fa-headphones" aria-hidden="true"></i></h2>
+            <div class="search_container">
+                <input type="text" id="search" placeholder="Search...">
+                <button id="search_btn"><i class="fa fa-search" aria-hidden="true"></i></button>
+                <a href="playlists.html" class="navtab">Playlists</a>
+            </div>
+            <div id="noResultsMessage">No results found.</div>
+        </div>
+        <div class="tracks" id="tracks-container"></div>
+    </div>
+
+    <!-- Audio element for playing songs -->
+    <audio id="music" controls style="display:none;"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
